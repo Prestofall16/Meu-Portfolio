@@ -1,0 +1,51 @@
+@media screen and (max-width: 700px){
+    #projetos{margin-top: 1200px;}
+    
+    #portfolio{margin-top: 200px;}
+    
+	
+}
+
+@media screen and (max-width: 490px)
+{.cabesalho{display: none;}
+
+ .curriculo{display: none;}
+ header ul{justify-content: start;
+ }
+
+ header svg{margin-left: 40px;}
+
+
+
+ #about{position: relative;}
+
+ #about p{width: 80%;}
+
+ #portfolio{position: relative;}
+
+
+ #container li{font-size: 10px;}
+
+ #container p{font-size: 20px;position: relative;}
+
+ #container h3{font-size: 20px;}
+
+ #container h1{font-size: 40px}
+
+ .obrigado{width: 70px;
+ font-size: 14px;
+ margin-left: 10px;    
+}
+}
+
+@media screen and (max-width: 425px)
+{
+    #portfolio{margin-top: 400px;}
+
+    #about p{width: 80%;}
+
+    .categoria{font-size: 10px;}
+
+    .categoria{height: 50px;}
+
+}
